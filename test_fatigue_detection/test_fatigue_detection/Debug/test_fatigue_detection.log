@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\dlib\dlib-19.7\dlib-19.7\dlib\image_transforms\morphological_operations.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  test_fatigue_detection.vcxproj -> D:\车载疲劳驾驶\test_fatigue_detection\Debug\test_fatigue_detection.exe
+  test_fatigue_detection.vcxproj -> D:\车载疲劳驾驶\test_fatigue_detection\Debug\test_fatigue_detection.pdb (Partial PDB)
